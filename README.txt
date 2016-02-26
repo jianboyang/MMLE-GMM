@@ -18,6 +18,6 @@ Note:
 1. To speed up algorithms MMLE-GMM and MMLE-MFA, the command "parafor" is used . If multi-core CPU is not available for your PC, you may want to change the files "fGMM_FR.m" and "fGMM_LR.m" accordingly.
 2. To speed up algorithms MMLE-GMM and MMLE-MFA, we do not monitor the likelihood in the EM algorithm but simply set a maximum number of iterations in the parameter "para.iteMax". You may want to change "GMM_FR.m" and "GMM_LR.m" to monitor the likelihood in the EM algorithm.
 
-Please send comments, suggestions and bug reports to email: jbyang.email@gmail.com
+Please send comments, suggestions and bug reports to email: jbyang.email@gmail.com.
 
 
